@@ -1,4 +1,4 @@
-# Extension-Dataset-of-CodeGenEvaluation
+# CodeGenEvaluation
 
 ## CodeScore: Evaluating Code Generation by Learning Code Execution
 https://arxiv.org/abs/2301.09043
